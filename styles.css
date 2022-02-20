@@ -1,0 +1,12 @@
+body {
+    background-color: #222831;
+    color: #EEEEEE;
+}
+
+.instructions, .ingredients, .description {
+    background-color: #393E46;
+}
+
+.mini-header {
+    color: #00ADB5;
+} 
